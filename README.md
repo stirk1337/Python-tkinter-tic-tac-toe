@@ -1,2 +1,3 @@
-# Python-tkinter-tic-tac-toe
-🎮Tic tac toe game(python)
+Simple game - Tic tac toe
+
+Used: Python3, tkinter library
